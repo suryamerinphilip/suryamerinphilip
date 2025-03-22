@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5E73F7&vCenter=true&width=435&lines=I'm+Surya+Merin+Philip)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5E73F7&vCenter=true&width=435&lines=I'm+Surya)](https://git.io/typing-svg)
 <!--
 **suryamerinphilip/suryamerinphilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
