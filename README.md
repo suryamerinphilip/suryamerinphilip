@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on GCP and Devops Projects
-- 🌱 I’m currently learning kubernetes and golang
+- 🔭 I’m currently working on java and Devops Projects
+- 🌱 I’m currently learning golang
 
 
 ### Connect With Me:
